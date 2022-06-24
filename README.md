@@ -7,7 +7,7 @@ Results
 
 ![2017 Macro Performance](/Resources/VBA_Challenge_2017.png)
 
-![2017 Macro Performance](/Resources/VBA_Challenge_2018.png)
+![2018 Macro Performance](/Resources/VBA_Challenge_2018.png)
 
 # Benefits of refactioring code
 Refactoring code can improve the eficiency and readability of our code.  We can create reduce duplicate code which can make it easier when testing or finding bugs.  Refactoring can also make our code easier to read for other developers.
